@@ -1,4 +1,4 @@
-# trains your brain to remember things instantly
+# trains your brain to remember things in a short amount of time
 
 ## game:
   - memorize a number in a short amount of time
